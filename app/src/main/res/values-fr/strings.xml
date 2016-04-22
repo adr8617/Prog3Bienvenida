@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bienvenu</string>
+    <string name="app_title">MaBienvenu</string>
+    <string name="text">Bienvenu a sa Programme</string>
+    <string name="textBotEnter">Injertar</string>
+
+</resources>

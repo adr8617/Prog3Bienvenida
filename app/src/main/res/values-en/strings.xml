@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">welcome</string>
+    <string name="app_title">MeWelcome</string>
+    <string name="text">welcome at your programm</string>
+    <string name="textBotEnter">Enter</string>
+
+</resources>

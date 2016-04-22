@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">willkomemmen</string>
+    <string name="app_title">MainWillkomemmen</string>
+    <string name="text">herzlich willkommen nach, zu Programm</string>
+    <string name="textBotEnter">Ente</string>
+</resources>
